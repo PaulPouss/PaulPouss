@@ -7,6 +7,18 @@
 
 ---
 
+## 🔄 From the kitchen to the code
+
+For 12 years I worked as a professional cook, the last 2 as **sous chef** in a high-volume semi-gastronomic restaurant (300 covers/night).
+
+I chose to change — knowing it would be hard.
+
+That chapter gave me things no classroom teaches:
+managing pressure, leading a team under fire, and delivering quality when everything is on the line.
+I brought all of it with me into software.
+
+---
+
 ## 🛠️ Stack
 
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
